@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+data/metrics/*.csv
+data/comparison_reports/*.csv
+mcom/
+venv/
+env/
+Lib/
+Scripts/
+*.dll
